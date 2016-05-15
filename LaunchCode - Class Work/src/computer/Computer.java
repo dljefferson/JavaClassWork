@@ -73,15 +73,7 @@ public class Computer {
 	    System.out.println(yourComputer.getMemory());
 	    System.out.println(yourComputer.toString());
 	}
-	//Create a computer - constructor
-	//Get brand name
-	//Get size
-	//Get Processor speed
-	//Get memory
-	//Add memory
-	//Swap processor
-	//Display information as a string
-	
+
 	
 	
 	
