@@ -9,10 +9,7 @@ public class Computer {
 	protected double size;
 	protected double processor;
     private String brand;
-     //memory -int
-    //size   -double
-	//processor -double
-	//brand  - string
+   
 	
 	//Behaviors
 	public Computer(int memory, double size, double processor, String brand)
