@@ -68,10 +68,12 @@ public class Computer {
 		Computer myComputer = new Computer(8, 2.4, 15.5, "Lenovo");
 		System.out.println(myComputer.getBrand());
 		Computer yourComputer = new Computer(8, 2.3, 15.6, "Dell");
+		Computer yourComputer3 = new Computer(8, 2.3, 15.6, "HP");
 		System.out.println(yourComputer.getBrand());
 	    yourComputer.addMemory(7);
 	    System.out.println(yourComputer.getMemory());
 	    System.out.println(yourComputer.toString());
+	    System.out.println(yourComputer3.toString());
 	}
 
 	
